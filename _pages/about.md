@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -46,4 +46,15 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+
+
+I am an enthusiastic researcher with a strong foundation in **Mathematical Sciences** and **Advanced Computational Science**. I hold a Master’s degree in Mathematical Sciences from the [African Institute for Mathematical Sciences (AIMS)](https://aims.ac.rw) in Kigali, Rwanda, and a second Master’s in Advanced Computational Science from the [Skolkovo Institute of Science and Technology (Skoltech)](https://new.skoltech.ru/en/) in Moscow, Russia.
+
+My research interests lie at the intersection of robotics and large multimodal models, focusing on developing Vision-Language-Action Models (VLAM) for robotics applications. My recent thesis, supervised by [Prof. Dzmitry Tsetserukou](https://faculty.skoltech.ru/people/dzmitrytsetserukou), explored innovative approaches to robotic bimanual skill synthesis, contributing to the field of dexterous manipulation.
+
+I have collaborated on various research projects, resulting in publications presented at international conferences. Notably, my work titled ["Bi-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Dexterous Manipulations"](https://arxiv.org/abs/2405.06039) will be published in the proceedings of the IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024). Additionally, I co-authored the paper ["Robots Can Feel: LLM-based Framework for Robot Ethical Reasoning,"](https://arxiv.org/abs/2405.05824) to be presented at the IEEE International Conference on Foundation and Large Language Models (FLLM 2024).
+
+I have been fortunate to receive guidance from esteemed advisors, including [Prof. Dzmitry Tsetserukou](https://faculty.skoltech.ru/people/dzmitrytsetserukou) at Skoltech and [Prof. Jodi Mead](https://jodimead.github.io/) at AIMS, whose mentorship has been invaluable in shaping my academic journey.
+
+**I aspire to pursue a career in academia or within a research institution**, leveraging my technical skills in programming, simulation, and modeling to advance robotics and develop intelligent systems that interact seamlessly with their environments.
