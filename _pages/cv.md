@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<!-- 
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -61,4 +61,30 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
+
+
+
+
+Education
+======
+* Master’s degree in Advanced Computational Science, Skolkovo Institute of
+Science and Technology (Skoltech), Moscow-Russia, June 2024
+* Master’s degree in Mathematical Sciences, African Institute for Mathematical
+Sciences (AIMS), Kigali-Rwanda, June 2022
+* Bachelor’s degree in Mathematics, University of Lomé, Lomé-Togo, 2019
+
+Work experience
+======
+* Junior Lab Assistant at Nanosemantics (July - December 2024)
+  * "Developping a joint
+localisation system for several drones using ROS2, ArduPilot and Gazebo."
+
+* ML Intern at AI Medtech (June - October 2023)
+  * "Development of machine learning methods
+(Transformer and CatBoost) for rolling window forecasting of complex table data"
+
+
+  
+
+ 
