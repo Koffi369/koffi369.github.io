@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -49,7 +50,7 @@ For more info
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
 
-I am an enthusiastic researcher with a strong foundation in **Mathematical Sciences** and **Advanced Computational Science**. I hold a Master’s degree in Mathematical Sciences from the [African Institute for Mathematical Sciences (AIMS)](https://aims.ac.rw) in Kigali, Rwanda, and a second Master’s in Advanced Computational Science from the [Skolkovo Institute of Science and Technology (Skoltech)](https://new.skoltech.ru/en/) in Moscow, Russia.
+<!-- I am an enthusiastic researcher with a strong foundation in **Mathematical Sciences** and **Advanced Computational Science**. I hold a Master’s degree in Mathematical Sciences from the [African Institute for Mathematical Sciences (AIMS)](https://aims.ac.rw) in Kigali, Rwanda, and a second Master’s in Advanced Computational Science from the [Skolkovo Institute of Science and Technology (Skoltech)](https://new.skoltech.ru/en/) in Moscow, Russia.
 
 My research interests lie at the intersection of robotics and large multimodal models, focusing on developing Vision-Language-Action Models (VLAM) for robotics applications. My recent thesis, supervised by [Prof. Dzmitry Tsetserukou](https://faculty.skoltech.ru/people/dzmitrytsetserukou), explored innovative approaches to robotic bimanual skill synthesis, contributing to the field of dexterous manipulation.
 
@@ -58,3 +59,16 @@ I have collaborated on various research projects, resulting in publications pres
 I have been fortunate to receive guidance from esteemed advisors, including [Prof. Dzmitry Tsetserukou](https://faculty.skoltech.ru/people/dzmitrytsetserukou) at Skoltech and [Prof. Jodi Mead](https://jodimead.github.io/) at AIMS, whose mentorship has been invaluable in shaping my academic journey.
 
 **I aspire to pursue a career in academia or within a research institution**, leveraging my technical skills in programming, simulation, and modeling to advance robotics and develop intelligent systems that interact seamlessly with their environments.
+
+ -->
+
+
+ I hold a Master’s degree in **Mathematical Sciences** from the [African Institute for Mathematical Sciences (AIMS)](https://aims.ac.rw) in Kigali, Rwanda, and a second Master’s in **Advanced Computational Science** from the [Skolkovo Institute of Science and Technology (Skoltech)](https://new.skoltech.ru/en/) in Moscow, Russia. As an enthusiastic researcher, I possess a strong foundation in these fields.
+
+My research interests lie at the intersection of robotics and large multimodal models, with a particular focus on developing Vision-Language-Action Models (VLAM) for robotics applications. My recent thesis, supervised by [Prof. Dzmitry Tsetserukou](https://faculty.skoltech.ru/people/dzmitrytsetserukou), explored innovative approaches to robotic bimanual skill synthesis, contributing significantly to the field of dexterous manipulation.
+
+I have collaborated on various research projects, resulting in publications presented at international conferences. Notably, my work titled ["Bi-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Dexterous Manipulations"](https://arxiv.org/abs/2405.06039) will be published in the proceedings of the IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024). Additionally, I co-authored the paper ["Robots Can Feel: LLM-based Framework for Robot Ethical Reasoning,"](https://arxiv.org/abs/2405.05824) which is set to be presented at the IEEE International Conference on Foundation and Large Language Models (FLLM 2024).
+
+I have been fortunate to receive guidance from esteemed advisors, including [Prof. Dzmitry Tsetserukou](https://faculty.skoltech.ru/people/dzmitrytsetserukou) at Skoltech and [Prof. Jodi Mead](https://jodimead.github.io/) at AIMS, whose mentorship has been invaluable in shaping my academic journey.
+
+I aspire to pursue a career in academia or within a research institution, leveraging my technical skills in programming, simulation, and modeling to advance robotics and develop intelligent systems that interact seamlessly with their environments.
