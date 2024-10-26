@@ -14,7 +14,10 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Portfolio"
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  - title: "Presentations"
     url: /portfolio/
         
   # - title: "Blog Posts"
