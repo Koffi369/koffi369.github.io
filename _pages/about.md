@@ -72,7 +72,6 @@ I have been fortunate to receive guidance from esteemed advisors, including [Pro
 
 I aspire to pursue a career in academia or within a research institution, leveraging my technical skills in programming, simulation, and modeling to advance robotics and develop intelligent systems that interact seamlessly with their environments. -->
 
-## About Me
 
 I am a researcher with a strong background in mathematics, computer science, and artificial intelligence. I hold two Master’s degrees: one in **Mathematical Sciences** from the [African Institute for Mathematical Sciences (AIMS)](https://aims.ac.rw), and another in **Computer Science** from the [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/).
 
